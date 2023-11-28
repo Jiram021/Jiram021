@@ -24,4 +24,10 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiram021&layout=compact&langs_count=7&theme=radical&text_color=ffc457&title_color=ff5757&border_color=ff5757"/>
       
 ##
+
+  <div> 
+ 	<a href="https://www.twitch.tv/jiramfps" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href = "jiramdeveloper@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/felipe-daniel-a98160294" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
+</div>
