@@ -25,5 +25,5 @@
       
 ##
     
-  ![Snake animation](https://github.com/Jiram/Jiram021/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Jiram021/Jiram021/blob/output/github-contribution-grid-snake.svg)
   
