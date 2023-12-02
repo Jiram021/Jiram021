@@ -1,4 +1,4 @@
-i## Olá, Eu sou o Felipe Mello👋🏼
+## Olá, Eu sou o Felipe Mello👋🏼
 
 - 💻 Estou estudando Back-End
 - 📚 Estudando Python
