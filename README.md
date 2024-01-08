@@ -9,6 +9,7 @@
 <div>
   <img align="center" alt="Felipe-PythonIcon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Felipe-JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Felipe-NodeJS" height="40" width="50" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg>
 </div>
   
 ##
@@ -33,4 +34,3 @@
 </div>
 
 ![Snake animation](https://github.com/felipe-mello2/felipe-mello2/blob/output/github-contribution-grid-snake.svg)
-
