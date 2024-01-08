@@ -15,7 +15,7 @@
 ##
 <details open="">
 <summary>
-    <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="23">
+    <img src="" height="23">
   <span> 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬 : </span>
 </summary>
 <br>
